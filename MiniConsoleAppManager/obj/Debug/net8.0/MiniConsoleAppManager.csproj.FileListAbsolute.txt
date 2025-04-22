@@ -1,0 +1,14 @@
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\bin\Debug\net8.0\MiniConsoleAppManager.exe
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\bin\Debug\net8.0\MiniConsoleAppManager.deps.json
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\bin\Debug\net8.0\MiniConsoleAppManager.runtimeconfig.json
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\bin\Debug\net8.0\MiniConsoleAppManager.dll
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\bin\Debug\net8.0\MiniConsoleAppManager.pdb
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.AssemblyInfoInputs.cache
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.AssemblyInfo.cs
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.csproj.CoreCompileInputs.cache
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.dll
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\refint\MiniConsoleAppManager.dll
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.pdb
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.genruntimeconfig.cache
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\ref\MiniConsoleAppManager.dll
