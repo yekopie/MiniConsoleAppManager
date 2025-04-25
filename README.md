@@ -14,6 +14,13 @@ Amaç; farklı konsol uygulamalarını tek bir yerden çalıştırmak, test etme
 - 📄 Geliştirici dostu konsol menüsü
 
 ---
+### 🧠 Mimari Avantajlar
+
+- Yeni uygulamalar kolayca `BaseApp` sınıfıyla eklenebilir.
+- Uygulamalar otomatik olarak menüde görünür.
+- Tek bir yapı üzerinden tüm uygulamaları yönetebilirsin.
+- Yeni geliştirici dostutur ve genişletilebilir bir altyapı sağlar.
+---
 
 ## ⚙️ Kullanım
 
@@ -43,10 +50,3 @@ public class HelloWorld : BaseApp
         Console.WriteLine("Hello world");
     }
 }
-
-### 🧠 Mimari Avantajlar
-
-- Yeni uygulamalar kolayca `BaseApp` sınıfıyla eklenebilir.
-- Uygulamalar otomatik olarak menüde görünür.
-- Tek bir yapı üzerinden tüm uygulamaları yönetebilirsin.
-- Yeni geliştirici dostutur ve genişletilebilir bir altyapı sağlar.
