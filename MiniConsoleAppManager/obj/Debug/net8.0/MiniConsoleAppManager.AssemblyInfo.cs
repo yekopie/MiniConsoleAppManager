@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniConsoleAppManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9845115721493d06d84916cae6ba52ce682472a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniConsoleAppManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniConsoleAppManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

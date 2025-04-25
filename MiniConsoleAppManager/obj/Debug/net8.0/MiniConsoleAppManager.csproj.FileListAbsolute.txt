@@ -12,3 +12,4 @@ C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debu
 C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.pdb
 C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.genruntimeconfig.cache
 C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\ref\MiniConsoleAppManager.dll
+C:\Users\yekel\source\repos\MiniConsoleAppManager\MiniConsoleAppManager\obj\Debug\net8.0\MiniConsoleAppManager.sourcelink.json

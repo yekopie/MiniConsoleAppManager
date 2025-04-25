@@ -1,18 +1,20 @@
-﻿using MiniAppManager.Apps.Abstract;
+﻿using MiniConsoleAppManager.Apps.Attributes;
+using MiniConsoleAppManager.Core.Abstract;
 
 namespace MiniAppManager.Apps.Algorithms
 {
     [AppInfo("HelloWorld", "Ekrana 'Merhaba Dünya' yazar")]
-    public class HelloWorld : App
+    public class HelloWorld : BaseApp
     {
-        public override void Init()
+
+        protected override void ExecuteLogic()
         {
-            Console.WriteLine("Merhaba Dünya");
+            
         }
 
-        public override void Run()
+        protected override void Initialize()
         {
-            Init();
+            Console.WriteLine("Hello world");
         }
     }
 }

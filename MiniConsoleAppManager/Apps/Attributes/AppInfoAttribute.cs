@@ -4,21 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MiniAppManager
+namespace MiniConsoleAppManager.Apps.Attributes
 {
     // Multiuse attribute.
-    [System.AttributeUsage(System.AttributeTargets.Class |
-                           System.AttributeTargets.Struct,
+    [AttributeUsage(AttributeTargets.Class |
+                           AttributeTargets.Struct,
                            AllowMultiple = true)  // Multiuse attribute.
     ]
-    public class AppInfoAttribute : System.Attribute
+    public class AppInfoAttribute : Attribute
     {
         public string AuthorName;
         string Title;
         string Description;
         double Version;
 
-       
+
         public AppInfoAttribute(string title, string description, double version = 1.0)
         {
             Title = title;
